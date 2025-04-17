@@ -1,0 +1,24 @@
+.vscode/
+
+# Ignore build and CMake files
+esp32-lora-reciever/build/
+esp32-lora-reciever/CMakeFiles/
+esp32-lora-reciever/cmake-build-debug/
+esp32-lora-reciever/.esp-idf/
+esp32-lora-reciever/main/config.h
+esp32-lora-reciever/pytest_hello_world.py
+
+# Ignore IDE-specific files
+esp32-lora-reciever/.devcontainer/
+esp32-lora-reciever/.vscode/
+esp32-lora-reciever/.idea/
+
+# Ignore platform-specific files
+esp32-lora-reciever/*.exe
+esp32-lora-reciever/*.out
+esp32-lora-reciever/*.dmg
+
+# Ignore user-specific or backup files
+esp32-lora-reciever/*.swp
+esp32-lora-reciever/*.bak
+esp32-lora-reciever/*~
