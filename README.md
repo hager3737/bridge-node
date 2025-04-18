@@ -60,7 +60,8 @@ When a message is received, the `lora_rx_callbacks` function is triggered. It:
 ---
 
 ## Photos
-
+![Bridge Node](images/image1.jpg)
+![Bridge Node](images/image2.jpg)
 ---
 
 ## 🙏 Thank You!
